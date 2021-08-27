@@ -1,0 +1,45 @@
+body
+{
+  color: rgb(8, 8, 8);
+  background:url("emoji.jpg") ;
+  background-position: center;
+  background-size: cover;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName1 ,#resultEmotionName2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+.a1{
+  background-color: rgba(240, 123, 123, 0.699);
+  background-size: 10px 10px;
+  border: 2px dotted red;
+  border-radius: 50px;
+}
+label{
+  font-size: 20px;
+  background-color: rgb(43, 236, 43);
+  padding: 5px;
+}
